@@ -15,7 +15,7 @@ pip install flask_sqlalchemy
 pip install flask_script
 pip install flask_migrate
 pip install psycopg2-binary
-
+pip install flask_api
 python manage.py db init
 
 python manage.py db migrate
