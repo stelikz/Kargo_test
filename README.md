@@ -1,5 +1,3 @@
-# kargo_test
-
 To Set Up
 
 source .env
